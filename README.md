@@ -1,4 +1,4 @@
-# This is our first Hello World App
+# This is my React boilerplate used for creating new React apps
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
